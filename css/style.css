@@ -14,3 +14,8 @@ section h1 {
 section p {
 	font: 16px 'Open Sans';
 }
+
+#heart {
+	width: 30px;
+	height: 20px;
+}
